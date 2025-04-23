@@ -7,11 +7,8 @@ openwrt软路由配置流程
   添加curl指令工具，curl安装命令：
   opkg update && opkg install curl
   添加nikki插件源：
-  # only needs to be run once
   curl -s -L https://github.com/nikkinikki-org/OpenWrt-nikki/raw/refs/heads/main/feed.sh | ash
   下载nikki指令：
-  # you can install from shell or `Software` menu in LuCI
-  # for opkg
   opkg install nikki
   opkg install luci-app-nikki
   opkg install luci-i18n-nikki-zh-cn
