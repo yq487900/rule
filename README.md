@@ -5,7 +5,8 @@ ImmortalWrt 24.10.0 r32824-6a73dae98c9c / LuCI openwrt-24.10 branch 25.017.24510
 下载地址：  
 https://firmware-selector.immortalwrt.org/  
 
-## 2.Nikki插件地址：https://github.com/nikkinikki-org/OpenWrt-nikki  
+## 2.Nikki插件地址：  
+[Nikki下载链接](https://github.com/nikkinikki-org/OpenWrt-nikki)  
 
 ## 3.ssh连接路由器后台输入以下指令  
 添加curl指令工具，curl安装命令：  
@@ -23,4 +24,5 @@ https://firmware-selector.immortalwrt.org/
 
 ## 5.进入路由器后台-服务-Nikii插件  
 上传配置文件config.yaml  
+
 ## 6.启动  
